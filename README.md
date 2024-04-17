@@ -7,3 +7,4 @@ Jwt Token & Role Based Api
 - Register
 - SmsVerified
 - Role Based Endpoint
+- Password Hashing
